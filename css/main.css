@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset="utf-8">
+	<title>Randall L. Cooper</title>
+		<!--link to main stylesheet-->
+	<link rel = "stylesheet" href = "/css/main.css">
+	</head>
+	
+	<body>
+		<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">CV</a></li>
+			<li><a href="#">Blog</a></li>
+		</ul>
+		</nav>
+		<div id = "wrapper">
+		<div class="blurb">
+			<h1>Hi there, my name is Randall!</h1>
+				<p>I am new to coding! <a href="#">Read more about my life...</a></p>
+		</div>
+		
+		<footer>
+		<ul>
+			<li><a href="mailto:rcooper0309@starkstate.net">email</a></li>
+			<li><a href="https://github.com/rcooper02">github.com/rcooper0</a></li>
+			</ul>
+		</footer>
+		</div>
+	</body>
+</html>
